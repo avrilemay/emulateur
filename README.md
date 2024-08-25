@@ -35,10 +35,15 @@ The program is executed with the following syntax:
 # Available Options
 
 -`stepper`: Pauses the execution after each instruction, waiting for user input to continue.
+
 -`ram:` Displays the initialization of the RAM.
+
 -`journal`: Logs detailed information about each operation cycle to a file.
+
 -`print`: Verbose mode that prints detailed operation cycles to the terminal.
+
 -`breakpoint`: Sets a breakpoint at a specified memory address, pausing execution when the address is reached.
+
 
 # Example Commands
 
